@@ -5,7 +5,7 @@
  * @main uP
  */
 
-var task = require('microtask'); // nextTick shim
+// commented out by npm-component: var task = require('microtask'); // nextTick shim
 
 (function(root){
     "use strict"
